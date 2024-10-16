@@ -1,1 +1,1 @@
-from src.main import print(Hello world)
+from src.main import return(Hello, World)
